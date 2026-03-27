@@ -3,7 +3,7 @@ Manually tested Aarong login and registration functionality.
 # Aarong Website Testing Project
 
 ## Project Overview
-Manual testing of **login and registration modules** for **:contentReference[oaicite:0]{index=0}** website to ensure functional correctness, validation, and user experience.
+Manual testing of **login and registration modules** for **https://www.aarong.com/bgd** website to ensure functional correctness, validation, and user experience.
 
 ---
 
