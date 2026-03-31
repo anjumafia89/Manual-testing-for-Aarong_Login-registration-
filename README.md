@@ -1,14 +1,14 @@
-# Manual-testing-for-Aarong_Login-registration-
-Manually tested Aarong login and registration functionality.
+# Manual-testing-for-Aarong_Login-Sign Up
+Manually tested Aarong login and Sign Up functionality.
 # Aarong Website Testing Project
 
 ## Project Overview
-Manual testing of **login and registration modules** for **https://www.aarong.com/bgd** website to ensure functional correctness, validation, and user experience.
+Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd** website to ensure functional correctness, validation, and user experience.
 
 ---
 
 ## Features Tested
-- Login & Registration functionality  
+- Login & Sign Up functionality  
 - Email/Phone validation and password rules  
 - Positive and negative test scenarios  
 - UI/UX checks and error message validation  
