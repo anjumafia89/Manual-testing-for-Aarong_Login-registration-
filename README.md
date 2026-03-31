@@ -29,9 +29,11 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
   <img width="545" height="520" alt="image" src="https://github.com/user-attachments/assets/f8c9f6f5-a385-4bdf-b225-d35fbf96aba9" />
 
 
--**Mind Map:**Login & Sign UP
+-**Mind Map:**Login & Sign UP(Xmind)
+
 Login
-<img width="577" height="313" alt="Login" src="https://github.com/user-attachments/assets/b0f749f2-ce24-4609-ba16-1a102e701975" />
+
+ <img width="577" height="313" alt="Login" src="https://github.com/user-attachments/assets/b0f749f2-ce24-4609-ba16-1a102e701975" />
 
 
 - **Bug Reports:** Detailed defects with severity and reproduction steps (Excel)  
