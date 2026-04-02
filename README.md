@@ -14,7 +14,6 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
 - UI/UX checks and error message validation  
 
 ---
-
 ## Artifacts Included
 - **Test Cases:** Login & Sign Up test cases (Excel)
   
