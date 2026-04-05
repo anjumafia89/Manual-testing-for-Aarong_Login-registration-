@@ -44,6 +44,10 @@ Embed Link:
   
   <img width="1101" height="411" alt="image" src="https://github.com/user-attachments/assets/f92803c0-013d-493e-8501-fbfa4635f10e" />
   
+  JIRA link:
+  https://afiasworkspace-36246081.atlassian.net/jira/software/projects/AARONG/list?jql=project+%3D+AARONG+AND+createdDate+%3E%3D+-1w+ORDER+BY+cf%5B10039%5D+ASC%2C+priority+DESC&atlOrigin=eyJpIjoiOWM0Yjg2ZTk4OTM0NDM0NzlkNmNlZDRlMjYzNzg1NTYiLCJwIjoiaiJ9
+  
+  
 
 
 - **RTM:** Requirement Traceability Matrix linking requirements to test cases (Excel)  
