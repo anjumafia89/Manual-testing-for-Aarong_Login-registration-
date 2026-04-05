@@ -39,7 +39,12 @@ Manual testing of **login and Sign Up modules** for **https://www.aarong.com/bgd
 Embed Link:
   https://app.xmind.com/embed/vmaG8kyW?sheet-id=34e508c5-955b-4ab0-93a2-94036e5eccd9
 
-- **Bug Reports:** Detailed defects with severity and reproduction steps (Excel)  
+- **Bug Reports:** Detailed defects with severity and reproduction steps (JIRA)
+   For sign up
+  
+  <img width="1101" height="411" alt="image" src="https://github.com/user-attachments/assets/f92803c0-013d-493e-8501-fbfa4635f10e" />
+  
+
 
 - **RTM:** Requirement Traceability Matrix linking requirements to test cases (Excel)  
 
